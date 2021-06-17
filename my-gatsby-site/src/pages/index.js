@@ -1,5 +1,10 @@
 import * as React from "react"
-
+import {
+  pageStyles,
+  headingStyles,
+  headingAccentStyles,
+  paragraphStyles,
+}
 // styles
 const pageStyles = {
   color: "#232129",
